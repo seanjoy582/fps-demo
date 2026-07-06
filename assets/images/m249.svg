@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300">
+  <defs><linearGradient id="gun" x1="0" x2="1"><stop stop-color="#171918"/><stop offset=".5" stop-color="#5b625b"/><stop offset="1" stop-color="#101110"/></linearGradient></defs>
+  <path d="M68 130h820v16H68z" fill="#0d0e0d"/>
+  <path d="M215 88h360c45 15 70 36 74 66l-49 49H223z" fill="url(#gun)"/>
+  <path d="M338 183h197v85H338z" fill="#31382e"/>
+  <path d="M347 195h178v16H347zM347 225h178v16H347z" fill="#111" opacity=".45"/>
+  <path d="M116 107h105v55H116c-60-9-84-32-74-68z" fill="#242722"/>
+  <path d="M614 117h148v52H614zM762 128h140v22H762z" fill="#202421"/>
+  <path d="M262 199c33 35 42 65 27 90h-83c22-41 12-72-31-96z" fill="#161716"/>
+  <path d="M545 184c29 40 37 76 24 105h-70c8-36-1-70-26-105z" fill="#22251f"/>
+  <path d="M238 61h286l34 29H201z" fill="#131412"/>
+  <circle cx="629" cy="144" r="22" fill="#0a0a0a"/>
+</svg>

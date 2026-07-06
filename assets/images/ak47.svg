@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260">
+  <defs><linearGradient id="metal" x1="0" x2="1"><stop stop-color="#111"/><stop offset=".5" stop-color="#4a4a45"/><stop offset="1" stop-color="#151515"/></linearGradient><linearGradient id="wood" x1="0" x2="1"><stop stop-color="#6f3f1f"/><stop offset=".5" stop-color="#a56b38"/><stop offset="1" stop-color="#4d2b16"/></linearGradient></defs>
+  <path d="M36 123h815v14H36z" fill="#111"/>
+  <path d="M135 92h360l42 28-30 36H142z" fill="url(#metal)"/>
+  <path d="M508 118h138l-28 38H494z" fill="#2b2b28"/>
+  <path d="M132 99L40 75c-18 12-24 32-12 53l104 10zM646 113l128-34c34 12 43 35 30 66l-158 6z" fill="url(#wood)"/>
+  <path d="M318 150c42 30 55 62 40 98h-82c18-39 9-70-28-92z" fill="#1a1815"/>
+  <path d="M452 154c25 35 34 65 27 90h-64c3-30-3-58-27-86z" fill="#6d421f"/>
+  <path d="M174 65h213l12 31H158z" fill="#191919"/>
+  <path d="M236 55h104v15H236zM545 106h91v19h-91z" fill="#090909"/>
+</svg>

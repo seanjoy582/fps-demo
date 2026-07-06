@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 260">
+  <defs><linearGradient id="slide" x1="0" x2="1"><stop stop-color="#111"/><stop offset=".5" stop-color="#595d60"/><stop offset="1" stop-color="#151515"/></linearGradient></defs>
+  <path d="M98 83h392l51 29-20 40H116z" fill="url(#slide)"/>
+  <path d="M147 148h202v35H147z" fill="#181a1b"/>
+  <path d="M292 176c37 26 55 57 53 91h-84c-2-33-18-60-49-83z" fill="#222426"/>
+  <path d="M122 154c30 26 39 54 27 85H87c16-36 8-64-24-84z" fill="#191b1c"/>
+  <path d="M490 103h81v24h-81z" fill="#0a0a0a"/>
+  <path d="M152 69h173v16H152zM148 107h245v9H148z" fill="#0b0b0b"/>
+</svg>

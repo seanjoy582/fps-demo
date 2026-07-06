@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320">
+  <defs><linearGradient id="sleeve" x1="0" x2="1"><stop stop-color="#5f6b46"/><stop offset="1" stop-color="#2d3828"/></linearGradient><linearGradient id="glove" x1="0" x2="1"><stop stop-color="#171a16"/><stop offset="1" stop-color="#3f453c"/></linearGradient><linearGradient id="metal" x1="0" x2="1"><stop stop-color="#111"/><stop offset=".55" stop-color="#62645c"/><stop offset="1" stop-color="#181818"/></linearGradient><linearGradient id="wood" x1="0" x2="1"><stop stop-color="#5a3319"/><stop offset=".5" stop-color="#a56b38"/><stop offset="1" stop-color="#3f2414"/></linearGradient></defs>
+  <path d="M82 248c64-42 157-50 251-22l-34 72H42z" fill="url(#sleeve)"/>
+  <path d="M520 229c86-26 195-12 316 45l-10 46H550z" fill="url(#sleeve)"/>
+  <path d="M279 203c47-16 86-5 111 34l-39 49-97-22zM500 197c58-13 96 1 113 43l-64 45-82-30z" fill="url(#glove)"/>
+  <path d="M180 147h584v28H180z" fill="#111"/>
+  <path d="M288 104h319l41 35-26 55H278z" fill="url(#metal)"/>
+  <path d="M637 132h164v24H637z" fill="#111"/>
+  <path d="M753 118h98v52h-98z" fill="url(#wood)"/>
+  <path d="M216 113h83l-39 85H141c-8-40 17-70 75-85z" fill="url(#wood)"/>
+  <path d="M411 188c36 36 44 76 26 118h-91c19-44 7-78-37-104z" fill="#171815"/>
+  <path d="M520 186c30 35 39 75 25 120h-77c10-42 1-77-29-105z" fill="#242920"/>
+  <path d="M329 74h218l32 28H296z" fill="#151615"/>
+  <path d="M392 227h118v70H392z" fill="#384130"/>
+</svg>

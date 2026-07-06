@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340">
+  <defs><linearGradient id="sleeve" x1="0" x2="1"><stop stop-color="#5f6b46"/><stop offset="1" stop-color="#2d3828"/></linearGradient><linearGradient id="glove" x1="0" x2="1"><stop stop-color="#171a16"/><stop offset="1" stop-color="#3f453c"/></linearGradient><linearGradient id="slide" x1="0" x2="1"><stop stop-color="#111"/><stop offset=".55" stop-color="#737777"/><stop offset="1" stop-color="#151515"/></linearGradient></defs>
+  <path d="M102 266c72-51 166-57 279-17l-42 75H54z" fill="url(#sleeve)"/>
+  <path d="M401 258c70-34 159-24 268 30l-22 52H438z" fill="url(#sleeve)"/>
+  <path d="M320 214c61-20 107-4 139 47l-64 52-112-36zM430 211c56-18 99-4 128 42l-54 47-103-35z" fill="url(#glove)"/>
+  <path d="M250 104h360l46 34-24 57H270z" fill="url(#slide)"/>
+  <path d="M303 190h204v38H303z" fill="#181a1b"/>
+  <path d="M430 218c42 36 59 75 52 115h-88c-2-39-18-71-52-97z" fill="#242628"/>
+  <path d="M587 125h78v25h-78z" fill="#090909"/>
+  <path d="M292 81h174v22H292z" fill="#0b0b0b"/>
+</svg>

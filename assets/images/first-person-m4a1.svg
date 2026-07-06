@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320">
+  <defs><linearGradient id="sleeve" x1="0" x2="1"><stop stop-color="#5f6b46"/><stop offset="1" stop-color="#2d3828"/></linearGradient><linearGradient id="glove" x1="0" x2="1"><stop stop-color="#151815"/><stop offset="1" stop-color="#3c423a"/></linearGradient><linearGradient id="metal" x1="0" x2="1"><stop stop-color="#101112"/><stop offset=".55" stop-color="#6c7172"/><stop offset="1" stop-color="#151616"/></linearGradient></defs>
+  <path d="M78 250c74-46 159-53 252-24l-34 74H42z" fill="url(#sleeve)"/>
+  <path d="M516 230c87-27 195-12 319 46l-12 44H548z" fill="url(#sleeve)"/>
+  <path d="M277 203c48-16 86-5 112 34l-40 49-96-22zM501 197c58-13 96 1 113 43l-64 45-83-30z" fill="url(#glove)"/>
+  <path d="M178 141h592v24H178z" fill="#101112"/>
+  <path d="M310 99h285v76H310z" fill="url(#metal)"/>
+  <path d="M572 119h161v36H572zM730 126h114v16H730z" fill="#17191a"/>
+  <path d="M198 108h124v58H198c-62-22-68-44-24-78z" fill="#252a2a"/>
+  <path d="M393 177c34 39 39 80 18 122h-82c20-45 10-79-32-104z" fill="#151718"/>
+  <path d="M500 178c24 37 33 78 22 121h-75c8-42 0-77-27-104z" fill="#2b3030"/>
+  <path d="M354 68h239l34 31H321z" fill="#111"/>
+  <path d="M538 62h116v30H538z" fill="#151515"/>
+</svg>

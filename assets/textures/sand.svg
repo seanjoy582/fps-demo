@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+  <defs><filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".028" numOctaves="5" seed="12"/><feColorMatrix values=".55 0 0 0 .37 0 .48 0 0 .30 0 0 .32 0 .18 0 0 0 1 0"/></filter></defs>
+  <rect width="512" height="512" fill="#b99a69"/>
+  <rect width="512" height="512" filter="url(#n)" opacity=".85"/>
+  <g opacity=".25" fill="#6f5536"><circle cx="74" cy="92" r="3"/><circle cx="182" cy="251" r="2"/><circle cx="391" cy="143" r="3"/><circle cx="459" cy="421" r="2"/><circle cx="291" cy="399" r="4"/></g>
+</svg>
