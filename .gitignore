@@ -1,0 +1,4 @@
+.edge-playtest-profile/
+.edge-dump-profile/
+output-playtest.png
+*.log

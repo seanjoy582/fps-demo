@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+
+<meta charset="UTF-8">
+
+<title>FPS Demo</title>
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div id="menu">
+
+    <h1>FPS DEMO</h1>
+
+    <button id="startBtn">开始游戏</button>
+
+    <p>W A S D 移动</p>
+    <p>鼠标控制视角</p>
+    <p>左键射击</p>
+    <p>R 换弹</p>
+    <p>1 AK47</p>
+    <p>2 M4A1</p>
+    <p>3 M249</p>
+    <p>4 手枪</p>
+
+</div>
+
+<div id="hud">
+
+    <div id="health">
+        HP：
+        <span id="hp">100</span>
+    </div>
+
+    <div id="ammo">
+
+        <span id="ammoNow">30</span>
+
+        /
+
+        <span id="ammoMax">120</span>
+
+    </div>
+
+    <div id="weapon">
+
+        AK47
+
+    </div>
+
+    <div id="score">
+
+        KILL：
+
+        <span id="kill">0</span>
+
+    </div>
+
+</div>
+
+<div id="crosshair">
+
+    +
+
+</div>
+
+<div id="gameOver">
+
+    <h1>GAME OVER</h1>
+
+    <button onclick="location.reload()">
+
+        重新开始
+
+    </button>
+
+</div>
+
+<script type="module">
+
+import * as THREE from "https://cdn.jsdelivr.net/npm/three@0.160/build/three.module.js";
+
+window.THREE = THREE;
+
+</script>
+
+<script type="module" src="js/main.js"></script>
+
+</body>
+
+</html>
